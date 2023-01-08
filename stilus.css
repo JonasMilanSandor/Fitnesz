@@ -1,0 +1,77 @@
+.izzo{
+    color: yellow;
+    font-size: 170%;
+}
+
+html{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.tab2{
+    background-color: white;
+    margin: auto;
+    background-image: url(menu_hatter.png);
+    width: 800px;
+}
+
+h1{
+    font-size: 190%;
+}
+
+.tab1{
+    background-image: url(kek_eg.jpg);
+}
+
+.bal{
+    text-align: left;
+}
+
+.kek{
+    color: blue;
+}
+
+div{
+    width: 800px;
+    margin: auto;
+}
+
+.padding{
+    padding-inline-start: 25px;
+    padding-inline-end: 25px;
+}
+
+.belj{
+    padding-inline-start: 15px;
+}
+
+img{
+    float: right;
+}
+
+.tab3{
+    text-align: left;
+}
+
+td{
+    width: 150px;
+}
+
+.d1v{
+    text-align: left;
+}
+
+.h75{
+    width: 75%;
+}
+
+.bal1{
+    text-align: left;
+    font-size: 120%;
+}
